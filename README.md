@@ -1,6 +1,6 @@
 
 ## Caching Proxy Server
-Cache Proxy is a simple, bare-bones caching proxy server implemented in Go. It serves as a basic solution for caching HTTP requests and responses, using an in-memory map to store the cache.
+Cache Proxy is a simple, bare-bones caching proxy server implemented in Python. It serves as a basic solution for caching HTTP requests and responses, using an in-memory map to store the cache.
 
 ## Features
 - In-Memory Caching:
